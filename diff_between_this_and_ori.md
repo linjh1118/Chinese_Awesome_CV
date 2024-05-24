@@ -1,14 +1,3 @@
-# Chinese_Awesome_CV
-Awesome_CV的中文版本，clone本项目到overleaf即可轻松愉快编写自己的简历。
-
-# How to use in Overleaf
-overleaf中创建一个空白项目，然后将本仓库文件到导入overleaf这个项目，点击resume.tex进行编译，即可产出自己的简历
-
-![展示简历](./showcase.png)
-
-# 本项目基于Awesome_CV改动了啥
-
-```
 #### awesome-cv.cls ####
 
 1. 修改summary和个人介绍的差距 xx mm
@@ -60,4 +49,3 @@ overleaf中创建一个空白项目，然后将本仓库文件到导入overleaf�
 1. 首先需要增加对中文的支持，在resume.tex的documentclass后一行加入\usepackage{xeCJK}
 \documentclass[11pt, a4paper]{awesome-cv}
 \usepackage{xeCJK}
-```
