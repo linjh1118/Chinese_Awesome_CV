@@ -1,0 +1,2 @@
+# Chinese_Awesome_CV
+Awesome_CV的中文版本，clone本项目到overleaf即可轻松愉快编写自己的CV
